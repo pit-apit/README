@@ -21,7 +21,7 @@ Background GIF by <a href="https://id.pinterest.com/pin/59883870038758506/"> Art
  
 <li>👨‍🎓 Currently I am studying at <a href="https://itbyadika.ac.id/" > ITB Yadika Pasuruan</a>, Management study program.</li>
  
-<li>🌟 I am also often active in one of the Indonesian Discord communities, <a href="https://discord.com/invite/gangsebelah">GangSebelah</a>And <a href="https://discord.gg/bJjTEmNSYF">succes e-sport</a> </li>
+<li>🌟 I am also often active in one of the Indonesian Discord communities, <a href="https://discord.com/invite/gangsebelah">GangSebelah</a> And <a href="https://discord.gg/bJjTEmNSYF">succes e-sport</a> </li>
  
 <li>🚀 I am very interested in Content Creator</li>
 
